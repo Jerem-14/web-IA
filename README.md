@@ -1,4 +1,6 @@
-# myapp
+# Rendu Web et intégration IA
+
+## [Jupiter Notebook](server/rendu_jupiter_notebook.ipynb)
 
 ## Project setup
 ```
